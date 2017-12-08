@@ -1,6 +1,6 @@
 # USDA Food Composition Visual Browser
 
-![screenshot](https://github.com/ll10524/USDA-Food-Visualization-Tool/blob/master/img/index_page.png)
+![index page](img/index_page.png)
 
 ## What's our problem?
 Nowaday people care about food choice and diet to keep good health.  
