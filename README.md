@@ -10,6 +10,7 @@ However, it is always hard for customers to find the nutrition distribution of t
 they want based on their plan. Also comparison of nutritions among foods is more complicated. In order to solve this problem, 
 we build a visualization system to decode the data and visualize the data sheet from USDA.
 
+* [Play Me!](https://ll10524.github.io/USDA-Food-Visualization-Tool/dashboard-page/)
 
 ## Data Source
 [USDA Food Composition](https://ndb.nal.usda.gov/ndb/search/list)
@@ -36,5 +37,4 @@ legend in the upper right.
 
 
 ## Links
-* [Play Me! (It loads slow at first)](https://ll10524.github.io/USDA-Food-Visualization-Tool/dashboard-page/)
 * [Final Project Report](https://drive.google.com/file/d/0B0md3S9CvhRRLXdxZGtVWEg0Vjg/view)
